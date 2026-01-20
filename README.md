@@ -1,3 +1,9 @@
 **Weekly project**
 
-# this project is a sample project, towards the python and numpy usinf the basics of python
+This project is a sample weeply project. I have made it to for avoid reptiton.
+
+ **Tech stack**
+
+. Python
+ 
+ . Numpy
